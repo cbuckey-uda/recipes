@@ -1,0 +1,6 @@
+this is ceated on 25 july 2018 named as summer-recipe.txt
+
+i ll add it to staging area
+and then commit it to master branch
+
+and then push the master branch to my fork
