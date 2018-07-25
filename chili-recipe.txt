@@ -17,3 +17,10 @@ Directions:
  3. Stir, then cover and simmer over low heat for one hour.
  4. Mix the corn flour and 1/2 cup water in a small bowl.  Add to chili.
  5. Add the beans and simmer for 10 more minutes.
+
+ 
+ 
+ these additional lines represent a change , i will commit it but not push it.
+ so that there comes some difference between the local and global repository.
+ 
+ the above is done to demonstrate "Conflicting collaboration"
